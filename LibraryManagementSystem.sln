@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{1EA28BB4-3B88-4686-9FF3-9EE49DE1626F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA28BB4-3B88-4686-9FF3-9EE49DE1626F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA28BB4-3B88-4686-9FF3-9EE49DE1626F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA28BB4-3B88-4686-9FF3-9EE49DE1626F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA28BB4-3B88-4686-9FF3-9EE49DE1626F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
